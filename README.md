@@ -56,3 +56,8 @@ aws configure
 }
 ```
 
+## Script Execution
+
+* After creating the script. Run `chmod +x aws-iam-manager.sh`
+
+![](./img/Pasted%20image%20(3).png)

@@ -20,10 +20,10 @@ sudo apt-get install awscli
 aws configure
 ```
 ### You will have to provide:
-* AWS Acess Key ID
-* AWS Secret Access Key
-* Default region(e.g, us-east-1)
-* Default output format (jason recommended)
+* AWS Acess Key ID.
+* AWS Secret Access Key.
+* Default region(e.g, us-east-1).
+* Default output format (jason recommended).
 
 ![](./img/Pasted%20image%20(2).png)
 

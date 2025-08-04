@@ -118,5 +118,5 @@ aws configure
 
 ## Link to script below.
 
-[](./aws-iam-manager.sh)
+[Script file here](./aws-iam-manager.sh)
 

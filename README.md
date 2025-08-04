@@ -116,5 +116,7 @@ aws configure
 
 ![](./img/Pasted%20image%20(19).png)
 
+## Link to script below.
 
+[](./aws-iam-manager.sh)
 

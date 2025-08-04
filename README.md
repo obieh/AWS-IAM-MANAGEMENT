@@ -1,7 +1,7 @@
 # AWS-IAM-MANAGEMENT.
 This Project demonstrates how to automate AWS IAM management using shell script.
 
-## Prerequisites
+## Prerequisites.
 1. Install AWS CLI. Run the following depending on you OS platform.
 
 ```bash
@@ -33,7 +33,7 @@ aws configure
 
 ![](./img/Pasted%20image.png)
 
-### If you are using an IAM account(Account you configured on AWS-CLI). Be sure the account have these permissions
+### If you are using an IAM account(Account you configured on AWS-CLI). Be sure the account have these permissions.
 
 ```jason
 {
@@ -56,7 +56,7 @@ aws configure
 }
 ```
 
-## Script Execution 
+## Script Execution.
 
 * After creating the script. Run `chmod +x aws-iam-manager.sh`
 
@@ -78,11 +78,11 @@ aws configure
 
 ![](./img/Pasted%20image%20(8).png)
 
-* Script creating admin group
+* Script creating admin group.
 
 ![](./img/Pasted%20image%20(9).png)
 
-* Script adding user to admin group
+* Script adding user to admin group.
 
 ![](./img/Pasted%20image%20(10).png)
 

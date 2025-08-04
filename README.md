@@ -56,8 +56,46 @@ aws configure
 }
 ```
 
-## Script Execution
+## Script Execution 
 
 * After creating the script. Run `chmod +x aws-iam-manager.sh`
 
 ![](./img/Pasted%20image%20(3).png)
+
+* Run `./aws-iam-manager.sh` to execute the script.
+
+![](./img/Pasted%20image%20(4).png)
+
+* Scripting creating users.
+
+![](./img/Pasted%20image%20(5).png)
+
+![](./img/Pasted%20image%20(5).png)
+
+![](./img/Pasted%20image%20(6).png)
+
+![](./img/Pasted%20image%20(7).png)
+
+![](./img/Pasted%20image%20(8).png)
+
+* Script creating admin group
+
+![](./img/Pasted%20image%20(9).png)
+
+* Script adding user to admin group
+
+![](./img/Pasted%20image%20(10).png)
+
+### Head over to your AWS account to if the users were created.
+
+![](./img/Pasted%20image%20(11).png)
+
+### Click user group to see if 'admin' user-group was created.
+
+![](./img/Pasted%20image%20(12).png)
+
+### Finally, click the admin group to see if users have been added to the group.
+
+![](./img/Pasted%20image%20(13).png)
+
+

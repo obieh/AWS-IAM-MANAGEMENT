@@ -98,4 +98,23 @@ aws configure
 
 ![](./img/Pasted%20image%20(13).png)
 
+## Verification, Command-line/Terminal.
+
+* List all IAM users run `aws iam list-users`
+
+![](./img/Pasted%20image%20(16).png)
+
+* Check admin gruop detail run `aws iam get-group --group-name admin`
+
+![](./img/Pasted%20image%20(17).png)
+
+* Verify group policies, run `aws iam list-attached-group-policies --group-name admin`
+
+![](./img/Pasted%20image%20(18).png)
+
+* Check which users are in the admin group. run `aws iam get-group --group-name admin --query 'Users[].UserName'`
+
+![](./img/Pasted%20image%20(19).png)
+
+
 

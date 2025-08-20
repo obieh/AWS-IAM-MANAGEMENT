@@ -108,7 +108,7 @@ aws configure
 
 ![](./img/Pasted%20image%20(17).png)
 
-* Verify group policies, run `aws iam list-attached-group-policies --group-name admin`
+* Verify group policies, run `aws iam list-attached-group-policies --group-name admin`.
 
 ![](./img/Pasted%20image%20(18).png)
 

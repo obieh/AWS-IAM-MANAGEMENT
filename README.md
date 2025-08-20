@@ -5,13 +5,13 @@ This Project demonstrates how to automate AWS IAM management using shell script.
 1. Install AWS CLI. Run the following depending on you OS platform.
 
 ```bash
-# On macOS
+# On macOS.
 brew install awscli
 
-# On Ubuntu/Debian
+# On Ubuntu/Debian.
 sudo apt-get install awscli
 
-# On Windows
+# On Windows.
 # Download from: https://aws.amazon.com/cli/
 ```
 2. Configure AWS CLI
